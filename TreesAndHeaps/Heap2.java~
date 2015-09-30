@@ -1,0 +1,18 @@
+import java.util.ArrayList;
+
+public class Heap2<E> {
+    ArrayList<E> list;
+
+    public Heap2() {
+        list = new ArrayList<E>();
+    }
+
+    public void addNode(E data) {
+        list.add(data);
+        checl(data);
+    }
+
+    public void check(E data) {
+
+    }
+}

@@ -1,0 +1,50 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/BinaryNode.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/BinaryNode.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java, /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/BinaryNode.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Java sources to /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@23227837 directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.085065636 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.028925741 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.115307809 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, addNode, wait, equals, Heap2, notifyAll, <init>, check, removeNode, swap, toString, getClass, list, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap2.java[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, addNode, wait, getRight, node1, equals, swp, notifyAll, <init>, getData, removeNode, HeapNode, swap, toString, addNewRow, getClass, getLeft, node2, hashCode, item.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/HeapNode.java[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/schuylerreinken/Documents/School Folder/2015-2016/CSextra/TreesAndHeaps/Heap.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

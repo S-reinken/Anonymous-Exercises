@@ -1,0 +1,13 @@
+public class Test {
+    int value;
+    public Test(int v) {
+        value = v;
+    }
+
+    public static void main(String ... args) {
+        Test t1 = new Test(10);
+        Test t2 = new Test(30);
+        Test t3 = new Test(50);
+
+    }
+}
