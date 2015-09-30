@@ -2,6 +2,7 @@ public class MyLinkedList<E> {
     private Node first;
     private Node last;
 
+
     public MyLinkedList() {
         first = null;
         last = null;
